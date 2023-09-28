@@ -19,3 +19,9 @@ Ao iniciar, você deve ter terminais com as seguintes informações:
 
 ![back-end](backend.png)
 > back-end iniciado
+
+## Conceitos
+
+- Comunicação entre a interface visual para o usuário final (Front-end) e a estrutura que funciona por de "trás dos panos" (Back-end);
+- API (Application Programming Interface) - Interface de programação de aplicações;
+- Abstração de dados e seu consumo através da internet (Protocolo HTTP e método GET) ou internamente.
