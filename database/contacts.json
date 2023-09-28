@@ -1,0 +1,135 @@
+[
+  {
+    "id": "f47a55b0-7062-4a17-9be2-19b88254e3a1",
+    "nome": "João Silva",
+    "endereco": "Rua das Flores, 123",
+    "telefone1": "(11) 1234-5678",
+    "telefone2": "(11) 9876-5432"
+  },
+  {
+    "id": "b7e971d2-4981-4f84-8a2b-841d8a8e7f7f",
+    "nome": "Maria Santos",
+    "endereco": "Avenida Principal, 456",
+    "telefone1": "(21) 5555-1234",
+    "telefone2": "(21) 5555-5678"
+  },
+  {
+    "id": "d3e4c6e0-9082-4bca-9a46-ec05e09b6c5d",
+    "nome": "Pedro Oliveira",
+    "endereco": "Travessa das Palmeiras, 789",
+    "telefone1": "(31) 9876-5432",
+    "telefone2": "(31) 1234-5678"
+  },
+  {
+    "id": "a1b2c3d4-5678-4e5f-9101-1a2b3c4d5e6f",
+    "nome": "Ana Pereira",
+    "endereco": "Praça do Centro, 101",
+    "telefone1": "(41) 3333-8888",
+    "telefone2": "(41) 4444-7777"
+  },
+  {
+    "id": "7e8f9a0b-1122-4c3d-4e5f-6a7b8c9d0e1f",
+    "nome": "José Almeida",
+    "endereco": "Alameda das Árvores, 202",
+    "telefone1": "(51) 2222-9999",
+    "telefone2": "(51) 3333-7777"
+  },
+  {
+    "id": "1a2b3c4d-5e6f-7a8b-9c0d-1e2f3a4b5c6d",
+    "nome": "Mariana Costa",
+    "endereco": "Estrada do Bosque, 303",
+    "telefone1": "(61) 7777-8888",
+    "telefone2": "(61) 8888-7777"
+  },
+  {
+    "id": "4d5e6f7a-8b9c-0d1e-2f3a-4b5c6d7e8f9a",
+    "nome": "Luiz Fernandes",
+    "endereco": "Largo da Praia, 404",
+    "telefone1": "(71) 5555-6666",
+    "telefone2": "(71) 4444-3333"
+  },
+  {
+    "id": "1b2c3d4e-5f6a-7b8c-9d0e-1f2a3b4c5d6e",
+    "nome": "Carla Rodrigues",
+    "endereco": "Ponte do Rio, 505",
+    "telefone1": "(81) 6666-7777",
+    "telefone2": "(81) 7777-8888"
+  },
+  {
+    "id": "2c3d4e5f-6a7b-8c9d-0e1f-2a3b4c5d6e7f",
+    "nome": "Ricardo Mendes",
+    "endereco": "Vila do Interior, 606",
+    "telefone1": "(91) 8888-6666",
+    "telefone2": "(91) 9999-7777"
+  },
+  {
+    "id": "3d4e5f6a-7b8c-9d0e-1f2a-3b4c5d6e7f8a",
+    "nome": "Sara Oliveira",
+    "endereco": "Praia da Costa, 707",
+    "telefone1": "(92) 3333-2222",
+    "telefone2": "(92) 2222-3333"
+  },
+  {
+    "id": "4e5f6a7b-8c9d-0e1f-2a3b-4c5d6e7f8a9b",
+    "nome": "Fernando Lima",
+    "endereco": "Beco da Rua, 808",
+    "telefone1": "(47) 7777-9999",
+    "telefone2": "(47) 6666-8888"
+  },
+  {
+    "id": "5f6a7b8c-9d0e-1f2a-3b4c-5d6e7f8a9b0c",
+    "nome": "Luciana Souza",
+    "endereco": "Travessa do Lago, 909",
+    "telefone1": "(48) 4444-5555",
+    "telefone2": "(48) 5555-4444"
+  },
+  {
+    "id": "6a7b8c9d-0e1f-2a3b-4c5d-6e7f8a9b0c1d",
+    "nome": "Eduardo Alves",
+    "endereco": "Avenida das Montanhas, 1010",
+    "telefone1": "(13) 9999-1111",
+    "telefone2": "(13) 8888-2222"
+  },
+  {
+    "id": "7b8c9d0e-1f2a-3b4c-5d6e-7f8a9b0c1d2e",
+    "nome": "Paula Rocha",
+    "endereco": "Praça do Campo, 1111",
+    "telefone1": "(14) 7777-3333",
+    "telefone2": "(14) 6666-4444"
+  },
+  {
+    "id": "8c9d0e1f-2a3b-4c5d-6e7f-8a9b0c1d2e3f",
+    "nome": "Mário Santos",
+    "endereco": "Rua do Comércio, 1212",
+    "telefone1": "(55) 2222-1111",
+    "telefone2": "(55) 3333-2222"
+  },
+  {
+    "id": "9d0e1f2a-3b4c-5d6e-7f8a-9b0c1d2e3f4a",
+    "nome": "Cristina Lima",
+    "endereco": "Avenida das Flores, 1313",
+    "telefone1": "(64) 6666-9999",
+    "telefone2": "(64) 5555-8888"
+  },
+  {
+    "id": "0e1f2a3b-4c5d-6e7f-8a9b-0c1d2e3f4a5b",
+    "nome": "Raul Fernandes",
+    "endereco": "Travessa do Parque, 1414",
+    "telefone1": "(84) 8888-7777",
+    "telefone2": "(84) 7777-6666"
+  },
+  {
+    "id": "1f2a3b4c-5d6e-7f8a-9b0c-1d2e3f4a5b6c",
+    "nome": "Lúcia Almeida",
+    "endereco": "Praça da Igreja, 1515",
+    "telefone1": "(99) 7777-8888",
+    "telefone2": "(99) 8888-7777"
+  },
+  {
+    "id": "2a3b4c5d-6e7f-8a9b-0c1d-2e3f4a5b6c7d",
+    "nome": "Daniel Rodrigues",
+    "endereco": "Rua das Árvores, 1616",
+    "telefone1": "(88) 5555-6666",
+    "telefone2": "(88) 6666-5555"
+  }
+]
