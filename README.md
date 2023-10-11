@@ -1,5 +1,7 @@
 # Lista de contatos
 
+![thumbnail](./thumbnail.webp)
+
 Demonstração de aplicação para aulas (Conceito da comunicação `FRONT` + `API` + `DB` (`Mock`, banco de dados falso))
 
 ## Como rodar
